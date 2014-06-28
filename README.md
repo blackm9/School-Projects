@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 group08
 =======
 
@@ -54,3 +55,11 @@ PHP:
 
 HTML and CSS validation:
 	All content has been validated on the w3c validator and validation links can be found on our Homework #1 page.
+=======
+School-Projects
+===============
+
+These are just some random projects that I was involved in while I was an undergraduate at UCSD.
+
+
+>>>>>>> FETCH_HEAD
