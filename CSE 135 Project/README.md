@@ -1,24 +1,3 @@
-Homework 2:
------------
-We made a static page driven clickable prototype, focusing on a solid and thorough treatment of all of the states, links and functionality. You can view an overview of all of the pages built for this assignment by checking out our sitemap http://s8.level3.pint.com/sitemap.html.
-
-A bit on our thought process and workflow. We started by working on an outline of all of the needed pages, what functions would appear and what other pages would link to. This process really illuminated just how many pages and states can arise out of even seemingly simple site functions. You can view our outline, which represents a rough draft of our site structure on Google Docs at https://docs.google.com/document/d/1l5rmWK5WJO4i41pAP08pjszH9rXrfIYs1MDuwTIvvNs/edit?usp=sharing
-
-Then we focused on our prototype, adding and changing pages as we realized they were needed for a link or function on a particular page. We made separate static pages to represent different states, based on which type of user you are logged in and the state of the quiz you are interacting with. For example there are different pages for viewing your graded quizzes to add comments, and a grader's view of a regrade request with the student's comments. You can change which type of user you are viewing the prototype as by using the (PROTOTYPE) links on our login page at http://s8.level3.pint.com/login.html. Note that due to the static nature of the prototype, some links will end up taking you back to the student logged in state, like clicking on settings and then "quiz maker" to go back to the dashboard.
-
-A note on setting passwords for new users. The functionality we had in mind for this was that when you create an account for another user (as a Teacher), it will send them an email with a link to activate their account. There is no password set for them initially. it is in a state like a password reset, where the first thing they must do is set their own new password.
-
-For the CGI demonstration, we chose LOLCODE for our third language. Curious about LOLCODE? Here's a block style comment from one of our .lol source files:
-OBTW
-  LOLCODE IZ AN ESOTERIC PROGRAMMIN LANGUAGE INSPIRD BY LOLSPEAK,
-  TEH LANGUAGE EXPRESD IN EXAMPLEZ OV TEH LOLCAT INTERNET MEME.
-  LERN MOAR AT http://en.wikipedia.org/wiki/LOLCODE
-TLDR
-
-We hope you enjoy reading these scripts as much as we did writing them. You can view our CGI demo forms under CGI Demos on our site map at http://s8.level3.pint.com/sitemap.html.
-
--Group 8
-
 Homework 1:
 -----------
 
@@ -52,3 +31,21 @@ PHP:
 HTML and CSS validation:
 	All content has been validated on the w3c validator and validation links can be found on our Homework #1 page.
 
+Homework 2:
+-----------
+We made a static page driven clickable prototype, focusing on a solid and thorough treatment of all of the states, links and functionality. You can view an overview of all of the pages built for this assignment by checking out our sitemap http://s8.level3.pint.com/sitemap.html.
+
+A bit on our thought process and workflow. We started by working on an outline of all of the needed pages, what functions would appear and what other pages would link to. This process really illuminated just how many pages and states can arise out of even seemingly simple site functions. You can view our outline, which represents a rough draft of our site structure on Google Docs at https://docs.google.com/document/d/1l5rmWK5WJO4i41pAP08pjszH9rXrfIYs1MDuwTIvvNs/edit?usp=sharing
+
+Then we focused on our prototype, adding and changing pages as we realized they were needed for a link or function on a particular page. We made separate static pages to represent different states, based on which type of user you are logged in and the state of the quiz you are interacting with. For example there are different pages for viewing your graded quizzes to add comments, and a grader's view of a regrade request with the student's comments. You can change which type of user you are viewing the prototype as by using the (PROTOTYPE) links on our login page at http://s8.level3.pint.com/login.html. Note that due to the static nature of the prototype, some links will end up taking you back to the student logged in state, like clicking on settings and then "quiz maker" to go back to the dashboard.
+
+A note on setting passwords for new users. The functionality we had in mind for this was that when you create an account for another user (as a Teacher), it will send them an email with a link to activate their account. There is no password set for them initially. it is in a state like a password reset, where the first thing they must do is set their own new password.
+
+For the CGI demonstration, we chose LOLCODE for our third language. Curious about LOLCODE? Here's a block style comment from one of our .lol source files:
+OBTW
+  LOLCODE IZ AN ESOTERIC PROGRAMMIN LANGUAGE INSPIRD BY LOLSPEAK,
+  TEH LANGUAGE EXPRESD IN EXAMPLEZ OV TEH LOLCAT INTERNET MEME.
+  LERN MOAR AT http://en.wikipedia.org/wiki/LOLCODE
+TLDR
+
+We hope you enjoy reading these scripts as much as we did writing them. You can view our CGI demo forms under CGI Demos on our site map at http://s8.level3.pint.com/sitemap.html.
