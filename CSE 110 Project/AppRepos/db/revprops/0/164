@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+scmo
+K 8
+svn:date
+V 27
+2013-06-01T20:34:27.738806Z
+K 7
+svn:log
+V 71
+Fixed image not saving when adding.
+Fixed crash when no photo is taken.
+END

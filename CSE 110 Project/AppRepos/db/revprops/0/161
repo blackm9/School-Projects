@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 4
+scmo
+K 8
+svn:date
+V 27
+2013-06-01T17:54:36.265121Z
+K 7
+svn:log
+V 160
+Fixed:
+- Out of memory (Should work in most cases, unless the camera is way too high def(size>8mb))
+- Taking photo now only produces 1 image instead of 2 copies
+END
