@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-group08
-=======
-
 Homework 2:
 -----------
 We made a static page driven clickable prototype, focusing on a solid and thorough treatment of all of the states, links and functionality. You can view an overview of all of the pages built for this assignment by checking out our sitemap http://s8.level3.pint.com/sitemap.html.
@@ -55,11 +51,4 @@ PHP:
 
 HTML and CSS validation:
 	All content has been validated on the w3c validator and validation links can be found on our Homework #1 page.
-=======
-School-Projects
-===============
 
-These are just some random projects that I was involved in while I was an undergraduate at UCSD.
-
-
->>>>>>> FETCH_HEAD
