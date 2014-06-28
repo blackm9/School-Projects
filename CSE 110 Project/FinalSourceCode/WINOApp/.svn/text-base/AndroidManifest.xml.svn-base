@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.winoapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+    </uses-permission>
+
+    <application
+        android:name="com.example.winoapp.SocialApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/wino_rhino_app_logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.winoapp.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.winoapp.LoginActivity"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.RegisterActivity"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.InventoryActivity"
+            android:label="@string/title_activity_inventory" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.InventoryEditWine"
+            android:label="@string/title_activity_add_wine_info" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.InventoryViewInfo"
+            android:label="@string/title_inventory_view_info" >
+        </activity>
+		<activity
+            android:name="com.example.winoapp.WishlistActivity"
+            android:label="@string/title_activity_wishlist" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.WishlistEditWine"
+            android:label="@string/title_activity_add_wishlist_info" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.WishlistViewInfo"
+            android:label="@string/title_wishlist_view_info" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.TutorialActivity"
+            android:label="@string/title_activity_tutorial" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.TutorialVideoActivity"
+            android:label="@string/title_activity_tutorial_video" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.TutorialResourceActivity"
+            android:label="@string/title_activity_tutorial_resource" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.BACActivity"
+            android:label="@string/title_activity_bac" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.QuickAddActivity"
+            android:label="@string/title_activity_quick_add" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.Main_WMPActivity"
+            android:label="@string/title_activity_main__wmp" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.Meal_WMPActivity"
+            android:label="@string/title_activity_meal__wmp" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.PairedWineActivity"
+            android:label="@string/title_activity_paired_wine" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.SocialActivity"
+            android:label="@string/title_activity_social" >
+        </activity>
+        <activity
+            android:name="com.facebook.LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.example.winoapp.PickerActivity"
+            android:label="@string/app_name" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/APP_ID" />
+
+        <activity
+            android:name="com.example.winoapp.Wine_WMPActivity"
+            android:label="@string/title_activity_wine__wmp" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.PairedMealActivity"
+            android:label="@string/title_activity_paired" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.RecipiesActivity"
+            android:label="@string/title_activity_recipies" >
+        </activity>
+
+        <activity
+            android:name="com.example.winoapp.SurpriseActivity"
+            android:label="@string/title_activity_surprise" >
+        </activity>
+        
+        <activity
+            android:name="com.example.winoapp.SearchActivity"
+            android:label="@string/title_activity_search" >
+        </activity>
+        <activity
+            android:name="com.example.winoapp.SearchViewInfo"
+            android:label="@string/title_activity_search" >
+        </activity>
+    </application>
+
+</manifest>

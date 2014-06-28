@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+scmo
+K 8
+svn:date
+V 27
+2013-06-08T09:20:18.404821Z
+K 7
+svn:log
+V 60
+Fixed Search error due to Refractoring of inventory classes.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+scmo
+K 8
+svn:date
+V 27
+2013-06-01T21:23:39.329792Z
+K 7
+svn:log
+V 42
+Attempted fix for out of memory exception.
+END

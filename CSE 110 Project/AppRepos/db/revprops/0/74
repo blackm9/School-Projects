@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+scmo
+K 8
+svn:date
+V 27
+2013-05-28T18:59:06.696272Z
+K 7
+svn:log
+V 78
+Edit: Local Inv DB's quantity type preference changed to TEXT in place of INT.
+END

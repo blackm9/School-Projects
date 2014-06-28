@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+m1yao
+K 8
+svn:date
+V 27
+2013-06-03T16:26:18.585262Z
+K 7
+svn:log
+V 229
+feature now allows the user to add wine to inventory. this will copy and add the require fields and store it in inventory database. However, I dnt have time to remove the wishlist database yet. that will be done after my classes 
+END

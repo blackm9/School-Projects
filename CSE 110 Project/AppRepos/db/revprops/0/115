@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+scmo
+K 8
+svn:date
+V 27
+2013-05-30T19:57:36.291997Z
+K 7
+svn:log
+V 114
+Refractor InventoryEditInfo a bit. 
+Added ImageHandler to handle getting images from ImageView and storing bitmap.
+END

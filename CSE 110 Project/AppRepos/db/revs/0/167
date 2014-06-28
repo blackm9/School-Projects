@@ -1,0 +1,40 @@
+PLAIN
+K 10
+svn:ignore
+V 4
+bin
+
+END
+ENDREP
+id: 0-42.0.r167/42
+type: dir
+pred: 0-42.0.r166/419
+count: 8
+text: 166 0 406 406 b5fac79af18c8a6e525c628392cef4de
+props: 167 0 29 0 15e25ea24b821209c1d035f95a7000d7
+cpath: /FacebookSDK
+copyroot: 0 /
+
+PLAIN
+K 11
+FacebookSDK
+V 18
+dir 0-42.0.r167/42
+K 7
+WINOApp
+V 19
+dir 0-1.0.r165/6011
+END
+ENDREP
+id: 0.0.r167/336
+type: dir
+pred: 0.0.r166/666
+count: 167
+text: 167 241 82 82 a03244676b5a226289446b5c42782588
+cpath: /
+copyroot: 0 /
+
+0-42.0.t166-4s modify-dir false true /FacebookSDK
+
+
+336 470

@@ -1,0 +1,74 @@
+PLAIN
+K 10
+.classpath
+V 19
+file 1-45.0.r46/103
+K 8
+.project
+V 22
+file 3-45.0.r45/551195
+K 19
+AndroidManifest.xml
+V 22
+file 4-45.0.r45/551386
+K 6
+assets
+V 18
+dir 1-46.0.r46/313
+K 9
+build.xml
+V 22
+file c-45.0.r45/599886
+K 3
+gen
+V 21
+dir d-45.0.r45/571389
+K 4
+libs
+V 21
+dir e-45.0.r45/571880
+K 18
+project.properties
+V 22
+file h-45.0.r45/550991
+K 3
+res
+V 18
+dir i-45.0.r46/930
+K 3
+src
+V 21
+dir 1-44.0.r102/23434
+END
+ENDREP
+id: 0-42.0.r166/419
+type: dir
+pred: 0-42.0.r103/19174
+count: 7
+text: 166 0 406 406 b5fac79af18c8a6e525c628392cef4de
+cpath: /FacebookSDK
+copyroot: 0 /
+
+PLAIN
+K 11
+FacebookSDK
+V 19
+dir 0-42.0.r166/419
+K 7
+WINOApp
+V 19
+dir 0-1.0.r165/6011
+END
+ENDREP
+id: 0.0.r166/666
+type: dir
+pred: 0.0.r165/6310
+count: 166
+text: 166 570 83 83 2ef5d1ac4aa0fee4ca53e1afa34f8a9a
+cpath: /
+copyroot: 0 /
+
+5-45.0.r103/18559 delete-dir false false /FacebookSDK/bin
+
+
+666 801

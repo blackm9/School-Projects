@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/cream_texture">
+    
+    <TextView
+        android:id="@+id/tutorial_video_menu_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:singleLine="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="50dp"
+        android:text="@string/tutorial_video_menu_title"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="27sp"
+        android:textColor="#000000"
+        android:gravity="center" />
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+        
+        <Button
+            android:id="@+id/tutorial_video_wine_101"
+	        android:layout_width="250dp"
+	        android:layout_height="40dp"
+	        android:layout_marginTop="50dp"
+	        android:layout_marginLeft="0dp"
+	        android:singleLine="true"
+	        android:text="@string/tutorial_video_wine_101"
+	        android:textSize="18sp"
+	        android:textColor="#FFF"
+	        android:gravity="center"
+	        android:onClick="wine101Tut"/>
+            
+
+    	<Button
+            android:id="@+id/tutorial_video_restaurant_ordering"
+	        android:layout_width="250dp"
+	        android:layout_height="40dp"
+	        android:layout_marginTop="12dp"
+	        android:layout_marginLeft="0dp"
+	        android:singleLine="true"
+	        android:text="@string/tutorial_video_restaurant_ordering"
+	        android:textSize="18sp"
+	        android:textColor="#FFF"
+	        android:gravity="center"
+	        android:onClick="restaurantWineTut"/>
+
+   		 <Button
+            android:id="@+id/tutorial_video_leftover_wine"
+	        android:layout_width="250dp"
+	        android:layout_height="40dp"
+	        android:layout_marginTop="12dp"
+	        android:layout_marginLeft="0dp"
+	        android:singleLine="true"
+	        android:text="@string/tutorial_video_leftover_wine"
+	        android:textSize="18sp"
+	        android:textColor="#FFF"
+	        android:gravity="center"
+	        android:onClick="leftoverWineTut"/>
+   		 
+   		 <Button
+            android:id="@+id/tutorial_video_wine_gadgets"
+	        android:layout_width="250dp"
+	        android:layout_height="40dp"
+	        android:layout_marginTop="12dp"
+	        android:layout_marginLeft="0dp"
+	        android:singleLine="true"
+	        android:text="@string/tutorial_video_wine_gadgets"
+	        android:textSize="18sp"
+	        android:textColor="#FFF"
+	        android:gravity="center"
+	        android:onClick="wineGadgetsTut"/>
+   		 
+   		 <Button
+            android:id="@+id/tutorial_video_wine_glasses"
+	        android:layout_width="250dp"
+	        android:layout_height="40dp"
+	        android:layout_marginTop="12dp"
+	        android:layout_marginLeft="0dp"
+	        android:singleLine="true"
+	        android:text="@string/tutorial_video_wine_glasses"
+	        android:textSize="18sp"
+	        android:textColor="#FFF"
+	        android:gravity="center"
+	        android:onClick="wineGlassesTut"/>
+   		 
+   		 <Button
+            android:id="@+id/tutorial_video_wine_cheese_pairing"
+	        android:layout_width="250dp"
+	        android:layout_height="40dp"
+	        android:layout_marginTop="12dp"
+	        android:layout_marginLeft="0dp"
+	        android:singleLine="true"
+	        android:text="@string/tutorial_video_wine_cheese_pairing"
+	        android:textSize="18sp"
+	        android:textColor="#FFF"
+	        android:gravity="center"
+	        android:onClick="wineCheesePairTut"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

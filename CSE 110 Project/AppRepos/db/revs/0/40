@@ -1,0 +1,82 @@
+PLAIN
+K 10
+.classpath
+V 19
+file 1-2.0.r24/2763
+K 8
+.project
+V 20
+file 3-2.0.r2/437527
+K 9
+.settings
+V 21
+dir 1-12.0.r35/299720
+K 19
+AndroidManifest.xml
+V 19
+file 4-2.0.r37/5468
+K 6
+assets
+V 19
+dir 5-2.0.r2/437450
+K 3
+bin
+V 20
+dir 6-2.0.r38/252473
+K 3
+gen
+V 19
+dir c-2.0.r2/439967
+K 19
+ic_launcher-web.png
+V 20
+file d-2.0.r2/445691
+K 4
+libs
+V 19
+dir e-2.0.r2/440441
+K 20
+proguard-project.txt
+V 20
+file h-2.0.r2/437711
+K 18
+project.properties
+V 20
+file i-2.0.r2/437255
+K 3
+res
+V 19
+dir j-2.0.r37/12303
+K 3
+src
+V 21
+dir 1e-2.0.r38/251118
+END
+ENDREP
+id: 0-1.0.r40/546
+type: dir
+pred: 0-1.0.r39/5403
+count: 39
+text: 40 0 533 533 e102bc34300c93c9ce7639a87ca104a5
+cpath: /WINOApp
+copyroot: 0 /
+
+PLAIN
+K 7
+WINOApp
+V 17
+dir 0-1.0.r40/546
+END
+ENDREP
+id: 0.0.r40/740
+type: dir
+pred: 0.0.r39/5604
+count: 40
+text: 40 688 39 39 48a3116513f52f9b3a831e8c0389b084
+cpath: /
+copyroot: 0 /
+
+0-1.0-39.r39/4634 delete-dir false false /WINOApp/inventoryBranch
+
+
+740 871
