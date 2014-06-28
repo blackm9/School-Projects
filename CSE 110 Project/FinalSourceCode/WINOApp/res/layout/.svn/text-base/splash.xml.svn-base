@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F7E7CE" >
+
+    <ImageView
+        android:id="@+id/login_logo"
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="67dp"
+        android:contentDescription="@+id/logo_content_description"
+        android:src="@drawable/wino_rhino" />
+
+    <com.facebook.widget.LoginButton
+        android:id="@+id/login_to_facebook"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profile_name"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/profile_name"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/login_to_facebook"
+        android:layout_alignRight="@+id/login_to_facebook"
+        android:layout_below="@+id/login_logo"
+        android:gravity="center_horizontal"
+        android:lines="2"
+        android:text="@string/get_started"
+        android:textSize="17sp" />
+
+</RelativeLayout>

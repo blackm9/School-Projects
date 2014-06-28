@@ -1,0 +1,232 @@
+PLAIN
+K 14
+add_button.jpg
+V 20
+file 3-4.0.r4/107851
+K 15
+ic_launcher.png
+V 20
+file m-2.0.r2/441272
+K 8
+icon.png
+V 21
+file 3-53.0.r53/55613
+K 13
+icon_hack.png
+V 21
+file 5-53.0.r53/54855
+K 9
+login.png
+V 21
+file 6-53.0.r53/54198
+K 16
+login_button.xml
+V 21
+file 7-53.0.r53/55120
+K 14
+login_down.png
+V 21
+file 8-53.0.r53/52884
+K 10
+logout.png
+V 21
+file 9-53.0.r53/54526
+K 17
+logout_button.xml
+V 21
+file a-53.0.r53/55333
+K 15
+logout_down.png
+V 21
+file b-53.0.r53/53217
+K 6
+me.png
+V 21
+file c-53.0.r53/53551
+K 17
+search_button.jpg
+V 20
+file 5-4.0.r4/107518
+K 10
+splash.png
+V 21
+file d-53.0.r53/55936
+K 24
+wine_ratingbar_empty.png
+V 19
+file 3-7.0.r7/18097
+K 23
+wine_ratingbar_full.png
+V 19
+file 5-7.0.r7/17761
+K 14
+wino_rhino.jpg
+V 20
+file 3-3.0.r3/206487
+K 23
+wino_rhino_app_logo.jpg
+V 21
+file 3-49.0.r49/56411
+K 5
+x.png
+V 21
+file e-53.0.r53/53876
+END
+ENDREP
+id: k-2.0.r100/852
+type: dir
+pred: k-2.0.r94/42357
+count: 7
+text: 100 0 839 839 0ce55f73018fee2b7fab752cf1621599
+cpath: /WINOApp/res/drawable-hdpi
+copyroot: 0 /
+
+PLAIN
+K 8
+drawable
+V 19
+dir 2-6.0.r93/21291
+K 13
+drawable-hdpi
+V 18
+dir k-2.0.r100/852
+K 13
+drawable-ldpi
+V 19
+dir o-2.0.r2/443091
+K 13
+drawable-mdpi
+V 19
+dir p-2.0.r4/111055
+K 14
+drawable-xhdpi
+V 19
+dir s-2.0.r4/112092
+K 15
+drawable-xxhdpi
+V 19
+dir v-2.0.r4/109358
+K 6
+layout
+V 18
+dir y-2.0.r98/3017
+K 4
+menu
+V 19
+dir 11-2.0.r75/6332
+K 6
+values
+V 20
+dir 14-2.0.r94/40956
+K 14
+values-sw600dp
+V 19
+dir j-3.0.r3/206278
+K 19
+values-sw720dp-land
+V 19
+dir m-3.0.r3/205759
+K 10
+values-v11
+V 20
+dir 18-2.0.r2/442951
+K 10
+values-v14
+V 20
+dir 1b-2.0.r2/443439
+END
+ENDREP
+id: j-2.0.r100/1576
+type: dir
+pred: j-2.0.r98/3737
+count: 60
+text: 100 1014 549 549 37278c79692dd15121ed16496ed583ab
+cpath: /WINOApp/res
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 19
+file 1-2.0.r98/1004
+K 8
+.project
+V 19
+file 3-2.0.r98/1208
+K 9
+.settings
+V 19
+dir 1-12.0.r99/8964
+K 19
+AndroidManifest.xml
+V 19
+file 4-2.0.r86/2665
+K 6
+assets
+V 19
+dir 5-2.0.r2/437450
+K 3
+bin
+V 18
+dir 6-2.0.r99/8150
+K 3
+gen
+V 19
+dir c-2.0.r2/439967
+K 19
+ic_launcher-web.png
+V 20
+file d-2.0.r2/445691
+K 4
+libs
+V 16
+dir e-2.0.r59/17
+K 20
+proguard-project.txt
+V 20
+file h-2.0.r2/437711
+K 18
+project.properties
+V 19
+file i-2.0.r99/2028
+K 3
+res
+V 19
+dir j-2.0.r100/1576
+K 3
+src
+V 19
+dir 1e-2.0.r99/7364
+END
+ENDREP
+id: 0-1.0.r100/2263
+type: dir
+pred: 0-1.0.r99/9657
+count: 94
+text: 100 1728 522 522 c6494a5f3e3612febaabee215ebebe83
+cpath: /WINOApp
+copyroot: 0 /
+
+PLAIN
+K 11
+FacebookSDK
+V 21
+dir 0-42.0.r47/423455
+K 7
+WINOApp
+V 19
+dir 0-1.0.r100/2263
+END
+ENDREP
+id: 0.0.r100/2509
+type: dir
+pred: 0.0.r99/9900
+count: 100
+text: 100 2411 85 85 4a04a05c0dd3f1b1229f40d74bf1a4d8
+cpath: /
+copyroot: 0 /
+
+3-94.0.r94/41183 delete-file false false /WINOApp/res/drawable-hdpi/fb-login-button.png
+
+
+2509 2645

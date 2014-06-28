@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 4
+scmo
+K 8
+svn:date
+V 27
+2013-05-28T05:48:42.949468Z
+K 7
+svn:log
+V 292
+Function working on: Camera for wine image
+Label: + = added, o = TODO
++ field to include image path for wine.
++ ability to use camera to take photo of wine.
++ convert photo to Bitmap for storage
+o ability to store/retrieve Bitmap to/from SDCard
+o display stored image in view wine info screen
+END

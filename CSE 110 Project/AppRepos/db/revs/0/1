@@ -1,0 +1,25 @@
+id: 0-1.0.r1/0
+type: dir
+count: 0
+cpath: /WINOApp
+copyroot: 0 /
+
+PLAIN
+K 7
+WINOApp
+V 14
+dir 0-1.0.r1/0
+END
+ENDREP
+id: 0.0.r1/114
+type: dir
+pred: 0.0.r0/17
+count: 1
+text: 1 65 36 36 ca3702a2598566c05dd5ca10cfee9dd1
+cpath: /
+copyroot: 0 /
+
+_0.0.t0-0 add-dir false false /WINOApp
+
+
+114 238

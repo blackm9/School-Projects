@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/cream_texture">
+    
+    <TextView
+        android:id="@+id/tutorial_resource_menu_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:singleLine="true"
+        android:layout_marginTop="45dp"
+        android:layout_marginLeft="50dp"
+        android:text="@string/tutorial_resource_menu_title"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="30sp"
+        android:textColor="#000000"
+        android:gravity="center" />
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+        
+        <Button
+            android:id="@+id/tutorial_resource_winery_locator"
+	        android:layout_width="250dp"
+	        android:layout_height="40dp"
+	        android:layout_marginTop="50dp"
+	        android:layout_marginLeft="0dp"
+	        android:singleLine="true"
+	        android:text="@string/tutorial_resource_winery_locator"
+	        android:textSize="18sp"
+	        android:textColor="#FFF"
+	        android:gravity="center"
+	        android:onClick="wineryLocator"/>
+        
+        <Button
+            android:id="@+id/tutorial_resource_wine_reviews"
+	        android:layout_width="250dp"
+	        android:layout_height="40dp"
+	        android:layout_marginTop="18dp"
+	        android:layout_marginLeft="0dp"
+	        android:singleLine="true"
+	        android:text="@string/tutorial_resource_wine_reviews"
+	        android:textSize="18sp"
+	        android:textColor="#FFF"
+	        android:gravity="center"
+	        android:onClick="wineReviews"/>
+            
+
+    	<Button
+            android:id="@+id/tutorial_resource_wine_news"
+	        android:layout_width="250dp"
+	        android:layout_height="40dp"
+	        android:layout_marginTop="18dp"
+	        android:layout_marginLeft="0dp"
+	        android:singleLine="true"
+	        android:text="@string/tutorial_resource_wine_news"
+	        android:textSize="18sp"
+	        android:textColor="#FFF"
+	        android:gravity="center"
+	        android:onClick="wineNews"/>
+
+   		 <Button
+            android:id="@+id/tutorial_resource_wine_business_news"
+            android:layout_width="250dp"
+	        android:layout_height="40dp"
+	        android:layout_marginTop="18dp"
+	        android:layout_marginLeft="0dp"
+	        android:singleLine="true"
+	        android:text="@string/tutorial_resource_wine_business_news"
+	        android:textSize="18sp"
+	        android:textColor="#FFF"
+	        android:gravity="center"
+	        android:onClick="wineBusinessNews"/>
+   		 
+   		 
+
+    </LinearLayout>
+
+</RelativeLayout>

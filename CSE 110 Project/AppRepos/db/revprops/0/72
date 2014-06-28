@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+abfarin
+K 8
+svn:date
+V 27
+2013-05-28T15:39:48.580881Z
+K 7
+svn:log
+V 66
+added some code to check for nonsense input values for BAC feature
+END

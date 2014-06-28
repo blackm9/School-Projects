@@ -1,0 +1,765 @@
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: a-50.0.r50/66
+type: file
+count: 0
+text: 45 361966 4418 4401 c157c22f608bbed4a44f293a04e6ac87 94f9486db5bb3692d5d662f347989225b621e03a 49-1d/_15
+props: 50 0 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_close.png
+copyroot: 0 /
+
+id: k-50.0.r50/331
+type: file
+count: 0
+text: 45 378762 699 1914 12212626f87d64e8be04b08789804af2 47f2753cfb3fcd4b0c973d21f5b0a0e7d8d23ccf 49-1d/_1f
+cpath: /WINOApp/res/drawable/com_facebook_picker_item_background.xml
+copyroot: 0 /
+
+id: r-50.0.r50/563
+type: file
+count: 0
+text: 45 381423 528 849 bc5d56ce6654f6855bbb502d74a8aab0 be7f83ddf058088e9b9aafdea2b2cc20d96f3950 49-1d/_1m
+cpath: /WINOApp/res/drawable/com_facebook_picker_top_button.xml
+copyroot: 0 /
+
+id: x-50.0.r50/789
+type: file
+count: 0
+text: 45 390907 561 1147 58bcab9a6ea990f8116ae4cf37860a27 c5e886e1ab2cb05c1a06931b3116b42cd20fb4cd 49-1d/_1s
+cpath: /WINOApp/res/drawable/com_facebook_top_button.xml
+copyroot: 0 /
+
+id: y-50.0.r50/1009
+type: file
+count: 0
+text: 45 391481 548 898 1a3152603f439874c80fa03d37703b13 d76903d104360d056ec3de4f058c566f27112859 49-1d/_1t
+cpath: /WINOApp/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: d-50.0.r50/1325
+type: file
+count: 0
+text: 45 366755 170 153 8df086d0dc8eb8d7900586f9c158e219 c09699d36a3b42e8dcd952aa142cb9ca246204d5 49-1d/_18
+props: 50 1259 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_list_section_header_background.9.png
+copyroot: 0 /
+
+id: w-50.0.r50/1620
+type: file
+count: 0
+text: 45 390366 528 833 79d5bda9e590078aed2bd82ebcc5174d edd7ebed3dd91696d14679f031524b1af9a8f61b 49-1d/_1r
+cpath: /WINOApp/res/drawable/com_facebook_top_background.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 7-50.0.r50/1910
+type: file
+count: 0
+text: 45 360730 479 462 a91d6b10e1c07425dfa60aee09c643ea af9ee7bebefe8c7c5a01c6f2c5d37fa44906644b 49-1d/_12
+props: 50 1844 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_button_grey_focused.9.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: v-50.0.r50/2260
+type: file
+count: 0
+text: 45 386834 3519 3784 7cee4a4ff3425c827e20837b98576013 fd01662433df379dd76baff7c4283182b61f803f 49-1d/_1q
+props: 50 2194 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_profile_picture_blank_square.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: f-50.0.r50/2619
+type: file
+count: 0
+text: 45 367506 1346 1621 c5941f099ad70350111f75e148bd08bb 6aeed72b106fb0573131191d77fed199b6428df6 49-1d/_1a
+props: 50 2553 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_loginbutton_blue_focused.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: m-50.0.r50/2974
+type: file
+count: 0
+text: 45 379662 168 151 f526e00c8ff0404f13f1104b1ee113b2 8c9e4a41bd8801010a3a404ab608865ecf6dbd34 49-1d/_1h
+props: 50 2908 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_picker_list_longpressed.9.png
+copyroot: 0 /
+
+id: o-50.0.r50/3262
+type: file
+count: 0
+text: 45 380031 628 1712 8ab53f187967859be09f00df62e3f008 ce75d19118d6eac912453e437f5bb6f0305b5767 49-1d/_1j
+cpath: /WINOApp/res/drawable/com_facebook_picker_list_selector.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: u-50.0.r50/3559
+type: file
+count: 0
+text: 45 383195 3626 3945 f038aa6ca47b7f4482d7698a0956ed05 09fdcff87e21b6ab9fcdd92de11a77213378dd81 49-1d/_1p
+props: 50 3493 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_profile_picture_blank_portrait.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: b-50.0.r50/3920
+type: file
+count: 0
+text: 45 366397 243 226 71bf13a3c174fc1c93300fd13604c737 3b5d0f277bcf900772a4d5069373e09933a558b8 49-1d/_16
+props: 50 3854 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_icon.png
+copyroot: 0 /
+
+id: p-50.0.r50/4187
+type: file
+count: 0
+text: 45 380672 537 913 33578bd2ccbffd907aaff20879525b1a bc4477ab24778b98bbc82d744685216719895b7b 49-1d/_1k
+cpath: /WINOApp/res/drawable/com_facebook_picker_list_selector_background_transition.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: s-50.0.r50/4505
+type: file
+count: 0
+text: 45 381964 830 813 32049632e5a82b32737bd4e7c64845f1 5479906dfbe31e099647d9618606ecb397e6d1ad 49-1d/_1n
+props: 50 4439 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_place_default_icon.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6-50.0.r50/4852
+type: file
+count: 0
+text: 45 359967 750 733 3c15a7fe567cae8ec80f3c11f5f45cac 959f187f55cb35776f96560f2177a456c785cb4e 49-1d/_11
+props: 50 4786 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_button_check_on.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: n-50.0.r50/5196
+type: file
+count: 0
+text: 45 379843 175 158 35a418e973af255821221062fedd1831 8ed107b33cbccbfab88308eb540858af01ef0483 49-1d/_1i
+props: 50 5130 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_picker_list_pressed.9.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: q-50.0.r50/5546
+type: file
+count: 0
+text: 45 381222 188 171 ac4c566093b97eab0e8243cb229fc3b9 462dee9d1b2fff489a8f9be4fe5602be15a0ac37 49-1d/_1l
+props: 50 5480 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_picker_list_selector_disabled.9.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: t-50.0.r50/5906
+type: file
+count: 0
+text: 45 382807 375 358 a2727c7f46c8a476cb8db553a0d91c94 d4b13da0c0df384d71214ff22254bb69dc8f9cb6 49-1d/_1o
+props: 50 5840 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_profile_default_icon.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 8-50.0.r50/6255
+type: file
+count: 0
+text: 45 361222 398 381 d944435a16fc2f0116a0292e84b49363 ba26a523a7911d4de0d7c51aca7cfe32d9bb8738 49-1d/_13
+props: 50 6189 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_button_grey_normal.9.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: g-50.0.r50/6604
+type: file
+count: 0
+text: 45 368865 1515 1801 2bf0e0c6828e1eb769e8a513654eff8a afd8444fa5d5017a8a91aecdc2366fd6a5e499eb 49-1d/_1b
+props: 50 6538 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_loginbutton_blue_normal.png
+copyroot: 0 /
+
+id: 3-50.0.r50/6892
+type: file
+count: 0
+text: 45 358843 532 895 56321c4a061ee01b2a58acbe96bbc4df bdff9303818f7143f02835bb6d7742fdee27859f 49-1d/_z
+cpath: /WINOApp/res/drawable/com_facebook_button_check.xml
+copyroot: 0 /
+
+id: e-50.0.r50/7113
+type: file
+count: 0
+text: 45 366938 555 1047 d30b52ee40742c7a4bc40420d529c58e 4228ea1a65cd3891d56fbc01c3b461a5a8298d67 49-1d/_19
+cpath: /WINOApp/res/drawable/com_facebook_loginbutton_blue.xml
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: l-50.0.r50/7406
+type: file
+count: 0
+text: 45 379474 175 158 aea6f6c4035408228f6f5e872b406663 eb9ba9a197d4537c54cdca34e7e97f4270058cbb 49-1d/_1g
+props: 50 7340 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_picker_list_focused.9.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: c-50.0.r50/7756
+type: file
+count: 0
+text: 45 366653 89 76 d81ed7c49fae605a33caaaf664ae2f2d 89d40722f8667c93a3c99fe048e88081df16b863 49-1d/_17
+props: 50 7690 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_list_divider.9.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 9-50.0.r50/8097
+type: file
+count: 0
+text: 45 361633 320 303 e2a4fa8fc50f09612e0dbda1dbcfc80e afc38683e9ba033a278c2351d59127f0587e3a24 49-1d/_14
+props: 50 8031 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_button_grey_pressed.9.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: j-50.0.r50/8447
+type: file
+count: 0
+text: 45 372316 6433 6416 3686d4b8fa270c298a4208382a257b83 8acfd9af7bfef19c85a03b605e1b403713e4e259 49-1d/_1e
+props: 50 8381 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_logo.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: h-50.0.r50/8782
+type: file
+count: 0
+text: 45 367506 1346 1621 c5941f099ad70350111f75e148bd08bb 6aeed72b106fb0573131191d77fed199b6428df6 49-1d/_1c
+props: 50 8716 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_loginbutton_blue_pressed.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 5-50.0.r50/9137
+type: file
+count: 0
+text: 45 359388 566 549 d218f16bc3c2d7e4d216fcfbf26ccc81 fb1fe6c90c61195c4f7792cb5e0d699a46d44770 49-1d/_10
+props: 50 9071 53 0 113136892f2137aa0116093a524ade0b
+cpath: /WINOApp/res/drawable/com_facebook_button_check_off.png
+copyroot: 0 /
+
+id: i-50.0.r50/9416
+type: file
+count: 0
+text: 45 371752 551 1032 b30ea02d4a758fb751420f864a3f9875 f1e2b8ad3718c3c15555daf6ce6aebe02a8ddf66 49-1d/_1d
+cpath: /WINOApp/res/drawable/com_facebook_loginbutton_silver.xml
+copyroot: 0 /
+
+PLAIN
+K 29
+com_facebook_button_check.xml
+V 20
+file 3-50.0.r50/6892
+K 33
+com_facebook_button_check_off.png
+V 20
+file 5-50.0.r50/9137
+K 32
+com_facebook_button_check_on.png
+V 20
+file 6-50.0.r50/4852
+K 38
+com_facebook_button_grey_focused.9.png
+V 20
+file 7-50.0.r50/1910
+K 37
+com_facebook_button_grey_normal.9.png
+V 20
+file 8-50.0.r50/6255
+K 38
+com_facebook_button_grey_pressed.9.png
+V 20
+file 9-50.0.r50/8097
+K 22
+com_facebook_close.png
+V 18
+file a-50.0.r50/66
+K 21
+com_facebook_icon.png
+V 20
+file b-50.0.r50/3920
+K 31
+com_facebook_list_divider.9.png
+V 20
+file c-50.0.r50/7756
+K 49
+com_facebook_list_section_header_background.9.png
+V 20
+file d-50.0.r50/1325
+K 33
+com_facebook_loginbutton_blue.xml
+V 20
+file e-50.0.r50/7113
+K 41
+com_facebook_loginbutton_blue_focused.png
+V 20
+file f-50.0.r50/2619
+K 40
+com_facebook_loginbutton_blue_normal.png
+V 20
+file g-50.0.r50/6604
+K 41
+com_facebook_loginbutton_blue_pressed.png
+V 20
+file h-50.0.r50/8782
+K 35
+com_facebook_loginbutton_silver.xml
+V 20
+file i-50.0.r50/9416
+K 21
+com_facebook_logo.png
+V 20
+file j-50.0.r50/8447
+K 39
+com_facebook_picker_item_background.xml
+V 19
+file k-50.0.r50/331
+K 38
+com_facebook_picker_list_focused.9.png
+V 20
+file l-50.0.r50/7406
+K 42
+com_facebook_picker_list_longpressed.9.png
+V 20
+file m-50.0.r50/2974
+K 38
+com_facebook_picker_list_pressed.9.png
+V 20
+file n-50.0.r50/5196
+K 37
+com_facebook_picker_list_selector.xml
+V 20
+file o-50.0.r50/3262
+K 59
+com_facebook_picker_list_selector_background_transition.xml
+V 20
+file p-50.0.r50/4187
+K 48
+com_facebook_picker_list_selector_disabled.9.png
+V 20
+file q-50.0.r50/5546
+K 34
+com_facebook_picker_top_button.xml
+V 19
+file r-50.0.r50/563
+K 35
+com_facebook_place_default_icon.png
+V 20
+file s-50.0.r50/4505
+K 37
+com_facebook_profile_default_icon.png
+V 20
+file t-50.0.r50/5906
+K 47
+com_facebook_profile_picture_blank_portrait.png
+V 20
+file u-50.0.r50/3559
+K 45
+com_facebook_profile_picture_blank_square.png
+V 20
+file v-50.0.r50/2260
+K 31
+com_facebook_top_background.xml
+V 20
+file w-50.0.r50/1620
+K 27
+com_facebook_top_button.xml
+V 19
+file x-50.0.r50/789
+K 57
+com_facebook_usersettingsfragment_background_gradient.xml
+V 20
+file y-50.0.r50/1009
+K 13
+inv_arrow.png
+V 22
+file b-35.0.r35/295437
+K 16
+inv_image_bg.xml
+V 22
+file d-35.0.r35/295161
+K 14
+inv_row_bg.xml
+V 22
+file e-35.0.r35/295698
+K 20
+inv_row_bg_hover.xml
+V 22
+file f-35.0.r35/295906
+K 20
+inv_row_selector.xml
+V 22
+file g-35.0.r35/294947
+K 14
+inv_sample.png
+V 22
+file h-35.0.r35/294680
+K 24
+wine_rating_bar_full.xml
+V 18
+file 4-6.0.r6/1402
+K 29
+wine_ratingbar_full_empty.xml
+V 18
+file 6-6.0.r6/1085
+K 30
+wine_ratingbar_full_filled.xml
+V 18
+file 7-6.0.r6/1712
+END
+ENDREP
+id: 2-6.0.r50/12278
+type: dir
+pred: 2-6.0.r35/296611
+count: 2
+text: 50 9645 2620 2620 8eed83d1b51cc724a02a23d585827d28
+cpath: /WINOApp/res/drawable
+copyroot: 0 /
+
+PLAIN
+K 8
+drawable
+V 19
+dir 2-6.0.r50/12278
+K 13
+drawable-hdpi
+V 19
+dir k-2.0.r49/57055
+K 13
+drawable-ldpi
+V 19
+dir o-2.0.r2/443091
+K 13
+drawable-mdpi
+V 19
+dir p-2.0.r4/111055
+K 14
+drawable-xhdpi
+V 19
+dir s-2.0.r4/112092
+K 15
+drawable-xxhdpi
+V 19
+dir v-2.0.r4/109358
+K 6
+layout
+V 18
+dir y-2.0.r48/7280
+K 4
+menu
+V 20
+dir 11-2.0.r37/10478
+K 6
+values
+V 18
+dir 14-2.0.r43/635
+K 14
+values-sw600dp
+V 19
+dir j-3.0.r3/206278
+K 19
+values-sw720dp-land
+V 19
+dir m-3.0.r3/205759
+K 10
+values-v11
+V 20
+dir 18-2.0.r2/442951
+K 10
+values-v14
+V 20
+dir 1b-2.0.r2/443439
+END
+ENDREP
+id: j-2.0.r50/13003
+type: dir
+pred: j-2.0.r49/57783
+count: 32
+text: 50 12441 549 549 d6db386b952a62fcd0cc0deed2f295e1
+cpath: /WINOApp/res
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 19
+file 1-2.0.r24/2763
+K 8
+.project
+V 20
+file 3-2.0.r2/437527
+K 9
+.settings
+V 21
+dir 1-12.0.r35/299720
+K 19
+AndroidManifest.xml
+V 19
+file 4-2.0.r48/3440
+K 6
+assets
+V 19
+dir 5-2.0.r2/437450
+K 3
+bin
+V 20
+dir 6-2.0.r38/252473
+K 3
+gen
+V 19
+dir c-2.0.r2/439967
+K 19
+ic_launcher-web.png
+V 20
+file d-2.0.r2/445691
+K 4
+libs
+V 19
+dir e-2.0.r2/440441
+K 20
+proguard-project.txt
+V 20
+file h-2.0.r2/437711
+K 18
+project.properties
+V 20
+file i-2.0.r2/437255
+K 3
+res
+V 19
+dir j-2.0.r50/13003
+K 3
+src
+V 19
+dir 1e-2.0.r48/6185
+END
+ENDREP
+id: 0-1.0.r50/13700
+type: dir
+pred: 0-1.0.r49/58479
+count: 44
+text: 50 13156 531 531 b45e13495024ecb347b74502c97d476f
+cpath: /WINOApp
+copyroot: 0 /
+
+PLAIN
+K 11
+FacebookSDK
+V 21
+dir 0-42.0.r47/423455
+K 7
+WINOApp
+V 19
+dir 0-1.0.r50/13700
+END
+ENDREP
+id: 0.0.r50/13947
+type: dir
+pred: 0.0.r49/58725
+count: 50
+text: 50 13849 85 85 53bf3c2c3274d043a5b65ccbdd65989c
+cpath: /
+copyroot: 0 /
+
+_j.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_logo.png
+
+_h.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_loginbutton_blue_pressed.png
+
+_s.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_place_default_icon.png
+
+_5.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_button_check_off.png
+
+_i.0.t49-1d add-file true false /WINOApp/res/drawable/com_facebook_loginbutton_silver.xml
+
+_6.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_button_check_on.png
+
+_n.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_picker_list_pressed.9.png
+
+_a.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_close.png
+
+_k.0.t49-1d add-file true false /WINOApp/res/drawable/com_facebook_picker_item_background.xml
+
+_q.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_picker_list_selector_disabled.9.png
+
+_r.0.t49-1d add-file true false /WINOApp/res/drawable/com_facebook_picker_top_button.xml
+
+_x.0.t49-1d add-file true false /WINOApp/res/drawable/com_facebook_top_button.xml
+
+_y.0.t49-1d add-file true false /WINOApp/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml
+
+_t.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_profile_default_icon.png
+
+_d.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_list_section_header_background.9.png
+
+_w.0.t49-1d add-file true false /WINOApp/res/drawable/com_facebook_top_background.xml
+
+_8.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_button_grey_normal.9.png
+
+_7.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_button_grey_focused.9.png
+
+_v.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_profile_picture_blank_square.png
+
+_g.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_loginbutton_blue_normal.png
+
+_f.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_loginbutton_blue_focused.png
+
+_3.0.t49-1d add-file true false /WINOApp/res/drawable/com_facebook_button_check.xml
+
+_m.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_picker_list_longpressed.9.png
+
+_o.0.t49-1d add-file true false /WINOApp/res/drawable/com_facebook_picker_list_selector.xml
+
+_u.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_profile_picture_blank_portrait.png
+
+_e.0.t49-1d add-file true false /WINOApp/res/drawable/com_facebook_loginbutton_blue.xml
+
+_l.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_picker_list_focused.9.png
+
+_c.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_list_divider.9.png
+
+_b.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_icon.png
+
+_9.0.t49-1d add-file true true /WINOApp/res/drawable/com_facebook_button_grey_pressed.9.png
+
+_p.0.t49-1d add-file true false /WINOApp/res/drawable/com_facebook_picker_list_selector_background_transition.xml
+
+
+13947 14083

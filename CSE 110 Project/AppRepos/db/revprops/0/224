@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+scmo
+K 8
+svn:date
+V 27
+2013-06-06T07:54:42.582092Z
+K 7
+svn:log
+V 143
+Refractored codes related to loading images for wishlist and inventory.
+Methods to load image and process camera image are inside ImageHandler.
+END

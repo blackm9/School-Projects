@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+scmo
+K 8
+svn:date
+V 27
+2013-06-06T20:41:27.865597Z
+K 7
+svn:log
+V 65
+Changed folder path so that wine images are deleted on uninstall.
+END
