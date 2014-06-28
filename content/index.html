@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Header
+================================================== -->
+<head>
+<meta charset="utf-8">
+<link href="http://ucsd-cse-134.github.io/group18/Homework4/img/team_page/favicon.ico" rel="shortcut icon" />
+<title>Quiz Maker</title>
+
+<!-- Le styles -->
+<link href="assets/css/bootstrap.css" rel="stylesheet">
+<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="assets/css/docs.css" rel="stylesheet">
+<link href="assets/js/google-code-prettify/prettify.css" rel="stylesheet">
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<!-- Le fav and touch icons -->
+<link rel="shortcut icon" href="assets/ico/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
+
+<!-- Local Styles -->
+<style type="text/css">
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 60px;
+}
+
+.carousel .container {
+  position: relative;
+  z-index: 9;
+}
+
+.carousel-control {
+  height: 80px;
+  margin-top: 0;
+  font-size: 120px;
+  text-shadow: 0 1px 1px rgba(0,0,0,.4);
+  background-color: transparent;
+  border: 0;
+  z-index: 10;
+}
+
+.carousel .item {
+  height: 500px;
+}
+.carousel img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+}
+
+.carousel-caption {
+  background-color: transparent;
+  position: static;
+  max-width: 550px;
+  padding: 0 20px;
+  margin-top: 200px;
+}
+.carousel-caption h1,
+.carousel-caption .lead {
+  margin: 0;
+  line-height: 1.25;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0,0,0,.4);
+}
+.carousel-caption .btn {
+  margin-top: 10px;
+}
+
+
+
+</style>
+</head>
+
+<!-- Body
+================================================== -->
+<body data-spy="scroll" data-target=".bs-docs-sidebar">
+
+<!-- Navbar
+================================================== -->
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+        <a class="brand" href="index.html" style="float:left;">Quiz Maker</a>
+	  
+		<div style="float:right;margin:0;">
+		  <a href="login" class="btn btn-primary">Log in</a>
+		  <a href="signup" class="btn btn-primary">Sign up</a>
+		</div>
+
+    </div>
+  </div>
+</div>
+
+    <!-- Carousel
+    ================================================== -->
+<div id="myCarousel" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="assets/img/spacebg.jpg" alt="bg">
+      <div class="container">
+        <div class="span5">
+          <div class="carousel-caption">
+            <h1>QuizMaker</h1>
+            <p class="lead">Quizzes Made Simple.</p>
+            <p class="lead">Get Started Today.</p>
+          </div>
+        </div>
+        <div class="span4">
+          <div class="carousel-caption">
+            <form action="signup" method="post">
+              <div class="control-group">
+                <div class="controls">
+                  <input type="text" name="email" placeholder="Your email">
+                  <input type="password" name="password" placeholder="Create a password">
+                  <button type="submit" class="btn btn-primary btn-large" name="quickstart">Sign up for Quiz Maker</button>
+                </div>
+              </div>
+    		    </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><!-- /.carousel -->
+	
+<!-- Content ================================================== -->
+<div class="container">
+  <div class="marketing">
+    <h1>Introducing the QuizMaker.</h1>
+    <p class="marketing-byline">The easy, breezy way to make, administer, and grade quizzes.</p>
+    <div class="row-fluid">
+      <div class="span12">
+        <img class="marketing-img" src="assets/img/resizedlogocolor.jpg" alt="logos">
+        <h2>By students, for students.</h2>
+        <p>Built by the Space Explorer team, known in CSE 135 as <a href="group8.html">Group 8</a> using the prototype provided by <a>The Four Amigos</a>, components provided by our friends at <a href="http://getbootstrap.com/2.3.2/index.html">Twitter Bootstrap </a>, is managed through <a href="http://github.com">GitHub</a>, and uses <a href="http://httpd.apache.org/">Apache</a> servers hosted at <a href="pint.com">Pint.</a></p>
+      </div>
+    </div>
+    <hr class="soften">
+    <h1>Just a little lost?</h1>
+    <p class="marketing-byline">Look through our <a href="sitemap.html">sitemap</a> to get started, and just click away!</p>
+  </div>
+</div>
+
+
+<!-- Footer
+================================================== -->
+<footer class="footer" style="padding:0">
+  <div class="container">
+    <p><a href="http://classes.pint.com/cse135/">CSE135 Homepage</a></p>
+    <p>&copy; 2013 <a href="group8.html">Group 8</a>. All rights reserved.</p>
+    <p class="pull-right"><a href="#">Back to top</a></p>
+  </div>
+</footer>
+
+<!-- Le javascript
+================================================== --> 
+<!-- Scripting at bottom so page will load faster with knife out because everybody runs faster with their knife out pshhhffff --> 
+
+<script src="assets/js/js.min.js"></script> 
+
+</body>
+</html>
